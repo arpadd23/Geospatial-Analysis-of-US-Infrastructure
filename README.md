@@ -22,6 +22,15 @@ Generates maps and charts to visualize the density and distribution of infrastru
 
 Provides interactive maps using Folium for enhanced user engagement.
 
+![Distribution of Ratings](https://github.com/arpadd23/Geospatial-Analysis-of-US-Infrastructure/blob/5575525b33017521232f4a1b091d012de3418b83/usa_power_plants_capacity.png?raw=true)
+
+![Distribution of Ratings](https://github.com/arpadd23/Geospatial-Analysis-of-US-Infrastructure/blob/5575525b33017521232f4a1b091d012de3418b83/usa_power_plants_count.png?raw=true)
+
+![Distribution of Ratings](https://github.com/arpadd23/Geospatial-Analysis-of-US-Infrastructure/blob/5575525b33017521232f4a1b091d012de3418b83/usa_railway_length_by_state.png?raw=true)
+
+![Distribution of Ratings](https://github.com/arpadd23/Geospatial-Analysis-of-US-Infrastructure/blob/5575525b33017521232f4a1b091d012de3418b83/regression_plant_count_vs_railway_length.png?raw=true)
+
+
 ## 📊 Data Sources
 
 **State Boundaries:** GeoJSON format to delineate the boundaries of U.S. states.
